@@ -1,3 +1,16 @@
-# software-construction-CourseDesign
-software construction course design
-For Program Version Control
+# 软件构造课程设计
+
+本仓库用于保存校园资源预约管理系统的增量迭代版本。各版本基于上一版本继续开发，并保留独立目录，便于展示课程要求的代码演进过程。
+
+## 版本
+
+| 版本 | 内容 | 状态 |
+| --- | --- | --- |
+| [V1.0](V1.0/README.md) | 项目初始化与固定账号登录 | 已完成 |
+
+## 开发约定
+
+- JDK 8 或更高版本
+- 使用原生 Java
+- 按任务书顺序增量开发，不推倒重写
+- 每个任务保留独立版本项目
